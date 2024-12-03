@@ -1,4 +1,3 @@
-```markdown
 # Amigo Secreto
 
 Este repositório contém dois programas para realizar sorteios de **Amigo Secreto**, com envio automático de e-mails para os participantes. Você pode escolher entre uma versão com interface gráfica utilizando a biblioteca `customtkinter` ou uma versão simples baseada no terminal.
@@ -6,7 +5,7 @@ Este repositório contém dois programas para realizar sorteios de **Amigo Secre
 ---
 
 ## 🛠️ Pré-requisitos
-
+```markdown
 1. **Python 3.x** instalado no sistema.
 2. Instale as bibliotecas necessárias:
    ```bash
